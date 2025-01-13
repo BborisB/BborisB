@@ -1,6 +1,6 @@
 # Boris Betremieux
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&duration=2500&pause=5000&vCenter=true&width=435&lines=PHP+back-end+developper;Mainly+using+Symfony;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&duration=2500&pause=5000&vCenter=true&width=435&lines=PHP+back-end+developper;Mainly+using+Symfony;Always+learning+new+things)](https://github.com/BborisB)
 ---
 While it is true that I mainly use Symfony, I am not limiting myself to this framework. I also develop some Windows application using .NET framework with C# Winform and WPF.
 I like reading documentations, and I always go for the best practices.

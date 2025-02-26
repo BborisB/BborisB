@@ -2,13 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&duration=2500&pause=5000&vCenter=true&width=435&lines=PHP+back-end+developper;Mainly+using+Symfony;Always+learning+new+things)](https://github.com/BborisB)
 ---
-While it is true that I mainly use Symfony, I am not limiting myself to this framework. I also develop some Windows application using .NET framework with C# Winform and WPF.
+While it is true that I mainly use Symfony, I am not limiting myself to this framework. I used Spring, NestJS, and I am not affraid of learning new tools if needed. I also develop some Windows application using .NET framework with C# Winform and WPF.
 I like reading documentations, and I always go for the best practices.
 
-Currently working on :
-- [The documentation of Discord bots for Simplon-HDF](https://github.com/Simplon-hdf/API-bots-discord-documentation)
 ---
-### GitHub stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bborisb&show_icons=true&theme=transparent&custom_title=My%20GitHub%20stats)
 
 ---
